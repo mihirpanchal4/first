@@ -1,3 +1,5 @@
 print'Hi Morning'
 
-print 'Hi Goof Night'
+print 'Hi Good Night'
+
+print 'Good Afternoon'
